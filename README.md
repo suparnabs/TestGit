@@ -1,2 +1,3 @@
 # TestGit
-This is for Git
+This is my first GIT Repository
+Author - Suparna BS
